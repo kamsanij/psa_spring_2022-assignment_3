@@ -20,9 +20,10 @@
 
 ## Conclusion:
 
-As the number of objects(n) are increasing the number of pairs(m) increasing in n times the logarithm of n with base approximately 5.
+As the number of objects(n) are increasing the number of pairs(m) changes linearithmic with n. 
+To be more precise m is increasing n times the log of n to the base 5 which can be approximated to below expression.
 
-m = n* log5(n)
+m = n* log(n)
 
 For larger values of n which is around 5000 to 20000, m value is nearly 5 times of n which can be seen in the evidence graph.
 
