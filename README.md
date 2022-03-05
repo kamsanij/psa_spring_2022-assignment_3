@@ -1,20 +1,24 @@
-## Program Structures & Algorithms
+# Program Structures & Algorithms
 
-## Spring 2022
+# Spring 2022
 
-## Assignment No. 3
+# Assignment No. 3
 
-# Name:	Jashwanth Reddy Kamsani
+## Name:	Jashwanth Reddy Kamsani
 
-# (NUID): 002988299
+## (NUID): 002988299
 
-# Task:
+## Files present:
+ 1. Assignment pdf in submission format
+ 2. UF_HWQUPC (the file in which changes are made)
+
+## Task:
 1) (a) Implement height-weighted Quick Union with Path Compression.
 (b) Check that the unit tests for this class all work.
 2) Create a main program that takes n from the command line, calls count() and prints the returned value.
 3) Determine the relationship between the number of objects (n) and the number of pairs (m)
 
-# Conclusion:
+## Conclusion:
 
 As the number of objects(n) are increasing the number of pairs(m) increasing in n times the logarithm of n with base approximately 5.
 
@@ -24,7 +28,7 @@ For larger values of n which is around 5000 to 20000, m value is nearly 5 times 
 
 m = 5n
 
-# Evidence / Graph: 
+## Evidence / Graph: 
 n      m      m/n
 10    15      1.50
 20    36      1.80
